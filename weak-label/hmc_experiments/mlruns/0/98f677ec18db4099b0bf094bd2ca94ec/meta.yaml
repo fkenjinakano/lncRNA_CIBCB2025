@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/98f677ec18db4099b0bf094bd2ca94ec/artifacts
+end_time: 1723811444579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98f677ec18db4099b0bf094bd2ca94ec
+run_name: receptive-roo-912
+run_uuid: 98f677ec18db4099b0bf094bd2ca94ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723811443230
+status: 4
+tags: []
+user_id: kenji

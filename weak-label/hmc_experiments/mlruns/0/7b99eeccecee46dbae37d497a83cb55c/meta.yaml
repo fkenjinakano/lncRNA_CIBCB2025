@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7b99eeccecee46dbae37d497a83cb55c/artifacts
+end_time: 1724165663820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b99eeccecee46dbae37d497a83cb55c
+run_name: bouncy-calf-151
+run_uuid: 7b99eeccecee46dbae37d497a83cb55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724165663741
+status: 4
+tags: []
+user_id: kenji

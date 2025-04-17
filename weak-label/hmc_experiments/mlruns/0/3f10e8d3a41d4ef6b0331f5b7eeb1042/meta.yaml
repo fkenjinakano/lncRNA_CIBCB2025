@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/3f10e8d3a41d4ef6b0331f5b7eeb1042/artifacts
+end_time: 1724167821778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f10e8d3a41d4ef6b0331f5b7eeb1042
+run_name: monumental-shad-162
+run_uuid: 3f10e8d3a41d4ef6b0331f5b7eeb1042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724167820492
+status: 4
+tags: []
+user_id: kenji

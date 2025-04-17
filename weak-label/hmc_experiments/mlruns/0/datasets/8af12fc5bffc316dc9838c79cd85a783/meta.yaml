@@ -1,0 +1,16 @@
+digest: b460e05a
+name: dataset
+profile: '{"num_rows": 10746, "num_elements": 139698}'
+schema: '{"mlflow_colspec": [{"type": "float", "name": "Age", "required": true}, {"type":
+  "integer", "name": "Workclass", "required": true}, {"type": "float", "name": "Education-Num",
+  "required": true}, {"type": "integer", "name": "Marital Status", "required": true},
+  {"type": "integer", "name": "Occupation", "required": true}, {"type": "long", "name":
+  "Relationship", "required": true}, {"type": "integer", "name": "Race", "required":
+  true}, {"type": "integer", "name": "Sex", "required": true}, {"type": "float", "name":
+  "Capital Gain", "required": true}, {"type": "float", "name": "Capital Loss", "required":
+  true}, {"type": "float", "name": "Hours per week", "required": true}, {"type": "integer",
+  "name": "Country", "required": true}, {"type": "boolean", "name": "label", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "kenji", "mlflow.source.name": "main.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "d61f97b1f833c2d18c6ed78bec9e3c1754ba2692"}}'
+source_type: code

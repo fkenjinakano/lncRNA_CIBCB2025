@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/05e3dd008dcb4b9cb09d58539694ca5b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05e3dd008dcb4b9cb09d58539694ca5b
+run_name: upbeat-cod-830
+run_uuid: 05e3dd008dcb4b9cb09d58539694ca5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796054363
+status: 1
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/fa950cfc22d043469503a3c6b6d396ab/artifacts
+end_time: 1723811092051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa950cfc22d043469503a3c6b6d396ab
+run_name: shivering-calf-758
+run_uuid: fa950cfc22d043469503a3c6b6d396ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723811090729
+status: 4
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/622441822bba41ba9cebec45e44f65f2/artifacts
+end_time: 1723817972225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 622441822bba41ba9cebec45e44f65f2
+run_name: magnificent-bass-820
+run_uuid: 622441822bba41ba9cebec45e44f65f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723817968838
+status: 3
+tags: []
+user_id: kenji

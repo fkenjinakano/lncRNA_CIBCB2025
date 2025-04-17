@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/e680b977080146408417ac429ee750ca/artifacts
+end_time: 1723819404448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e680b977080146408417ac429ee750ca
+run_name: fearless-ram-909
+run_uuid: e680b977080146408417ac429ee750ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723819398137
+status: 4
+tags: []
+user_id: kenji

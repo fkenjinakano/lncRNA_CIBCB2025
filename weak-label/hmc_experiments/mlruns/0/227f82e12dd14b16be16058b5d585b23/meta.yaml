@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/227f82e12dd14b16be16058b5d585b23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 227f82e12dd14b16be16058b5d585b23
+run_name: fearless-stork-707
+run_uuid: 227f82e12dd14b16be16058b5d585b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723797243065
+status: 1
+tags: []
+user_id: kenji

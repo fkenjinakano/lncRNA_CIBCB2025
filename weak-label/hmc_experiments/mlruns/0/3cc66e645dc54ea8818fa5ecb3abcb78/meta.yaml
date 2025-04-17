@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/3cc66e645dc54ea8818fa5ecb3abcb78/artifacts
+end_time: 1724163730699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cc66e645dc54ea8818fa5ecb3abcb78
+run_name: mercurial-zebra-178
+run_uuid: 3cc66e645dc54ea8818fa5ecb3abcb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163729514
+status: 4
+tags: []
+user_id: kenji

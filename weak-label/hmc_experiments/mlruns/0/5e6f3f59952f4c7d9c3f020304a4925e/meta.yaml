@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/5e6f3f59952f4c7d9c3f020304a4925e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e6f3f59952f4c7d9c3f020304a4925e
+run_name: delicate-hawk-800
+run_uuid: 5e6f3f59952f4c7d9c3f020304a4925e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723797725566
+status: 1
+tags: []
+user_id: kenji

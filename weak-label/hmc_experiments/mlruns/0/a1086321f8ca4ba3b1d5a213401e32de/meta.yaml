@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/a1086321f8ca4ba3b1d5a213401e32de/artifacts
+end_time: 1723812441962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1086321f8ca4ba3b1d5a213401e32de
+run_name: gregarious-bear-885
+run_uuid: a1086321f8ca4ba3b1d5a213401e32de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723812441889
+status: 4
+tags: []
+user_id: kenji

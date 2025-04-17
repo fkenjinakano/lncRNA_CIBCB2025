@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/fd93e605aee54b109a43db9d9b91ec16/artifacts
+end_time: 1723815295709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd93e605aee54b109a43db9d9b91ec16
+run_name: burly-lark-880
+run_uuid: fd93e605aee54b109a43db9d9b91ec16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815288831
+status: 4
+tags: []
+user_id: kenji

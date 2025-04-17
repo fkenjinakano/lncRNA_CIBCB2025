@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/5d87c7a0c9a64d61a623e3374d4d6af0/artifacts
+end_time: 1723816275333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d87c7a0c9a64d61a623e3374d4d6af0
+run_name: exultant-hawk-71
+run_uuid: 5d87c7a0c9a64d61a623e3374d4d6af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723816269347
+status: 4
+tags: []
+user_id: kenji

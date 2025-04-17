@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/06034918e2364183bc1220afb7fad278/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06034918e2364183bc1220afb7fad278
+run_name: orderly-finch-45
+run_uuid: 06034918e2364183bc1220afb7fad278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796431217
+status: 1
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/d8ba6f8f060c4ad498d3df3efcb3eb91/artifacts
+end_time: 1724167813888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ba6f8f060c4ad498d3df3efcb3eb91
+run_name: bouncy-gnu-731
+run_uuid: d8ba6f8f060c4ad498d3df3efcb3eb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724167812666
+status: 4
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/8cc01b8ad73f4f1a90a55bb1f3dc2d78/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cc01b8ad73f4f1a90a55bb1f3dc2d78
+run_name: learned-mule-380
+run_uuid: 8cc01b8ad73f4f1a90a55bb1f3dc2d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796535441
+status: 1
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7657a3ad4e224b5696b37e4013ab108f/artifacts
+end_time: 1724163654636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7657a3ad4e224b5696b37e4013ab108f
+run_name: traveling-hare-114
+run_uuid: 7657a3ad4e224b5696b37e4013ab108f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163653419
+status: 4
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/6b71bbe83edc49ab987b84101706d13c/artifacts
+end_time: 1723798989275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b71bbe83edc49ab987b84101706d13c
+run_name: bemused-steed-664
+run_uuid: 6b71bbe83edc49ab987b84101706d13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723798965780
+status: 3
+tags: []
+user_id: kenji

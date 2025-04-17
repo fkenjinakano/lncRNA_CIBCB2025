@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7336a785f06a404e9f5d25048dc12431/artifacts
+end_time: 1724163804874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7336a785f06a404e9f5d25048dc12431
+run_name: masked-sloth-632
+run_uuid: 7336a785f06a404e9f5d25048dc12431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163803665
+status: 4
+tags: []
+user_id: kenji

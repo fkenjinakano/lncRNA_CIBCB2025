@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/e58bd2fc293c4a9fa3122b59ec442b66/artifacts
+end_time: 1723817643629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e58bd2fc293c4a9fa3122b59ec442b66
+run_name: intrigued-seal-846
+run_uuid: e58bd2fc293c4a9fa3122b59ec442b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723817640386
+status: 3
+tags: []
+user_id: kenji

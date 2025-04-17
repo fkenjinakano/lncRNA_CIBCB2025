@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/05585cdb00f54b8b92ca04820c850066/artifacts
+end_time: 1723819199818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05585cdb00f54b8b92ca04820c850066
+run_name: agreeable-doe-743
+run_uuid: 05585cdb00f54b8b92ca04820c850066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723819192975
+status: 3
+tags: []
+user_id: kenji

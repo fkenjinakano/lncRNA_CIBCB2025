@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/95199594927647a0944815ce23f61e34/artifacts
+end_time: 1723817577417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95199594927647a0944815ce23f61e34
+run_name: puzzled-frog-278
+run_uuid: 95199594927647a0944815ce23f61e34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723817573306
+status: 3
+tags: []
+user_id: kenji

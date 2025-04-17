@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/84d94b6cd2d6474c9335a91eccd96af9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84d94b6cd2d6474c9335a91eccd96af9
+run_name: luxuriant-grouse-26
+run_uuid: 84d94b6cd2d6474c9335a91eccd96af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723797189187
+status: 1
+tags: []
+user_id: kenji

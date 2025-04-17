@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/fffad176573c45f894876d729a3b665b/artifacts
+end_time: 1723816006516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fffad176573c45f894876d729a3b665b
+run_name: thoughtful-boar-22
+run_uuid: fffad176573c45f894876d729a3b665b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815999100
+status: 4
+tags: []
+user_id: kenji

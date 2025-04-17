@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/0f57157d3dd44009bafd4bde2bdd7daa/artifacts
+end_time: 1723820396157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f57157d3dd44009bafd4bde2bdd7daa
+run_name: fun-loon-258
+run_uuid: 0f57157d3dd44009bafd4bde2bdd7daa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723820377461
+status: 3
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/6a81bedcfab94b04a8524e031c3c3a2e/artifacts
+end_time: 1723817504639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a81bedcfab94b04a8524e031c3c3a2e
+run_name: dazzling-skink-130
+run_uuid: 6a81bedcfab94b04a8524e031c3c3a2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723817500866
+status: 4
+tags: []
+user_id: kenji

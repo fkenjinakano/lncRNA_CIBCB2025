@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7af2073558e84e50bca8a8a557d8351b/artifacts
+end_time: 1723819004119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af2073558e84e50bca8a8a557d8351b
+run_name: unique-skunk-279
+run_uuid: 7af2073558e84e50bca8a8a557d8351b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723819001071
+status: 4
+tags: []
+user_id: kenji

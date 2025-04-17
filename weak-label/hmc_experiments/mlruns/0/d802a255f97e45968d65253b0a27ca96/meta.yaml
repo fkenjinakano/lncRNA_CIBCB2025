@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/d802a255f97e45968d65253b0a27ca96/artifacts
+end_time: 1724163539236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d802a255f97e45968d65253b0a27ca96
+run_name: capricious-wolf-227
+run_uuid: d802a255f97e45968d65253b0a27ca96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163537994
+status: 4
+tags: []
+user_id: kenji

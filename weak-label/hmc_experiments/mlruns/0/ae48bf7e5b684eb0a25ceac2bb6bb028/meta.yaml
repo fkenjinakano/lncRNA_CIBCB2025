@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/ae48bf7e5b684eb0a25ceac2bb6bb028/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae48bf7e5b684eb0a25ceac2bb6bb028
+run_name: clean-sloth-325
+run_uuid: ae48bf7e5b684eb0a25ceac2bb6bb028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796579745
+status: 1
+tags: []
+user_id: kenji

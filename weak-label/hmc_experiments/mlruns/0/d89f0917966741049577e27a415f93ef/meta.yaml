@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/d89f0917966741049577e27a415f93ef/artifacts
+end_time: 1724163662497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d89f0917966741049577e27a415f93ef
+run_name: big-kite-719
+run_uuid: d89f0917966741049577e27a415f93ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163661256
+status: 4
+tags: []
+user_id: kenji

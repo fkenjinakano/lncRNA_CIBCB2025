@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7a846de8354649d9b3cec7b1bd1ffbce/artifacts
+end_time: 1724163632762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a846de8354649d9b3cec7b1bd1ffbce
+run_name: valuable-steed-946
+run_uuid: 7a846de8354649d9b3cec7b1bd1ffbce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163631548
+status: 4
+tags: []
+user_id: kenji

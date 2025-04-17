@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/dae4868911ce4e2e88f154c88181e4a0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dae4868911ce4e2e88f154c88181e4a0
+run_name: stately-duck-433
+run_uuid: dae4868911ce4e2e88f154c88181e4a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796962546
+status: 1
+tags: []
+user_id: kenji

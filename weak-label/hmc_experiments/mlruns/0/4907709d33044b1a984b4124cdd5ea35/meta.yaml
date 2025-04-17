@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/4907709d33044b1a984b4124cdd5ea35/artifacts
+end_time: 1723818537799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4907709d33044b1a984b4124cdd5ea35
+run_name: secretive-moth-276
+run_uuid: 4907709d33044b1a984b4124cdd5ea35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723818530783
+status: 4
+tags: []
+user_id: kenji

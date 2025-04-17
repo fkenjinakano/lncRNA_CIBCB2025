@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7473af76f18349e5862b3a04e03e6a8f/artifacts
+end_time: 1723818501077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7473af76f18349e5862b3a04e03e6a8f
+run_name: amazing-cat-786
+run_uuid: 7473af76f18349e5862b3a04e03e6a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723818494173
+status: 4
+tags: []
+user_id: kenji

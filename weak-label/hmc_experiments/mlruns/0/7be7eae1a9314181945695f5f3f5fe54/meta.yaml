@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7be7eae1a9314181945695f5f3f5fe54/artifacts
+end_time: 1723811307687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7be7eae1a9314181945695f5f3f5fe54
+run_name: receptive-fawn-612
+run_uuid: 7be7eae1a9314181945695f5f3f5fe54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723811306346
+status: 4
+tags: []
+user_id: kenji

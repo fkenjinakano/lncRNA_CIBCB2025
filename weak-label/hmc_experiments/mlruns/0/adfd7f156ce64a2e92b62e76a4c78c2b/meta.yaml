@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/adfd7f156ce64a2e92b62e76a4c78c2b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adfd7f156ce64a2e92b62e76a4c78c2b
+run_name: rumbling-shad-771
+run_uuid: adfd7f156ce64a2e92b62e76a4c78c2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723798490666
+status: 1
+tags: []
+user_id: kenji

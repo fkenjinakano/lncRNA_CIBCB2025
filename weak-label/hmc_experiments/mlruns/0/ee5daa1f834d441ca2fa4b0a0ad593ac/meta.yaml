@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/ee5daa1f834d441ca2fa4b0a0ad593ac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee5daa1f834d441ca2fa4b0a0ad593ac
+run_name: invincible-trout-943
+run_uuid: ee5daa1f834d441ca2fa4b0a0ad593ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815347396
+status: 1
+tags: []
+user_id: kenji

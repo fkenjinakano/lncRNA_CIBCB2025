@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/6593ad2edabd4f26bc39a92c3d8f1438/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6593ad2edabd4f26bc39a92c3d8f1438
+run_name: unequaled-kit-349
+run_uuid: 6593ad2edabd4f26bc39a92c3d8f1438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723819916621
+status: 1
+tags: []
+user_id: kenji

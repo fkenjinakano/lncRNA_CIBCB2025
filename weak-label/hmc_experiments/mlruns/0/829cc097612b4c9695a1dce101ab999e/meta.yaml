@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/829cc097612b4c9695a1dce101ab999e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 829cc097612b4c9695a1dce101ab999e
+run_name: valuable-ray-133
+run_uuid: 829cc097612b4c9695a1dce101ab999e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796897382
+status: 1
+tags: []
+user_id: kenji

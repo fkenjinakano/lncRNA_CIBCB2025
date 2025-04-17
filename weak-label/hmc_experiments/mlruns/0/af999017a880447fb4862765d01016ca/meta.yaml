@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/af999017a880447fb4862765d01016ca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af999017a880447fb4862765d01016ca
+run_name: puzzled-moth-923
+run_uuid: af999017a880447fb4862765d01016ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723797714707
+status: 1
+tags: []
+user_id: kenji

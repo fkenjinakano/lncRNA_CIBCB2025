@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/b14a8a69f348402489fdde447aac8e58/artifacts
+end_time: 1723818379765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b14a8a69f348402489fdde447aac8e58
+run_name: illustrious-crab-840
+run_uuid: b14a8a69f348402489fdde447aac8e58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723818372751
+status: 4
+tags: []
+user_id: kenji

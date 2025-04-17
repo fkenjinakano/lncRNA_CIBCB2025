@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/06de4b2562a2460ebc099b9481c29901/artifacts
+end_time: 1723818071464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06de4b2562a2460ebc099b9481c29901
+run_name: flawless-pig-329
+run_uuid: 06de4b2562a2460ebc099b9481c29901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723818064195
+status: 4
+tags: []
+user_id: kenji

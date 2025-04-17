@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/fe41033ecbf349c7ad62ccd96d33d2cd/artifacts
+end_time: 1723818870029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe41033ecbf349c7ad62ccd96d33d2cd
+run_name: casual-lark-95
+run_uuid: fe41033ecbf349c7ad62ccd96d33d2cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723818866454
+status: 4
+tags: []
+user_id: kenji

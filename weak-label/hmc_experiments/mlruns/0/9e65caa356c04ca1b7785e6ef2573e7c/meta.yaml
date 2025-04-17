@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/9e65caa356c04ca1b7785e6ef2573e7c/artifacts
+end_time: 1723818682490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e65caa356c04ca1b7785e6ef2573e7c
+run_name: ambitious-mouse-817
+run_uuid: 9e65caa356c04ca1b7785e6ef2573e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723818675380
+status: 4
+tags: []
+user_id: kenji

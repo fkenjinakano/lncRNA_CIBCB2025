@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/56a18d9ea2ff4f22ad4a72f444bc5aa5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56a18d9ea2ff4f22ad4a72f444bc5aa5
+run_name: resilient-snipe-945
+run_uuid: 56a18d9ea2ff4f22ad4a72f444bc5aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723798586571
+status: 1
+tags: []
+user_id: kenji

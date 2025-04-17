@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/ea71e2dcca8a4e7d816b41a231871dfd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea71e2dcca8a4e7d816b41a231871dfd
+run_name: welcoming-swan-955
+run_uuid: ea71e2dcca8a4e7d816b41a231871dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723797049886
+status: 1
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/c9ca61f7b7c040b5a74aadb4f31dd5e1/artifacts
+end_time: 1723815140785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9ca61f7b7c040b5a74aadb4f31dd5e1
+run_name: clumsy-slug-216
+run_uuid: c9ca61f7b7c040b5a74aadb4f31dd5e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815137165
+status: 4
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/d7099e5019df48c3a5311e78e3db7015/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7099e5019df48c3a5311e78e3db7015
+run_name: bald-bat-754
+run_uuid: d7099e5019df48c3a5311e78e3db7015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163209322
+status: 1
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/931fec5e5fc34200b3c068855f84f325/artifacts
+end_time: 1723815895687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 931fec5e5fc34200b3c068855f84f325
+run_name: sedate-elk-118
+run_uuid: 931fec5e5fc34200b3c068855f84f325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815890247
+status: 3
+tags: []
+user_id: kenji

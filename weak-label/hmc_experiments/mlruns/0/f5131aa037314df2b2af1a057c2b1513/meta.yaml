@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/f5131aa037314df2b2af1a057c2b1513/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5131aa037314df2b2af1a057c2b1513
+run_name: bustling-pug-902
+run_uuid: f5131aa037314df2b2af1a057c2b1513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723798919675
+status: 1
+tags: []
+user_id: kenji

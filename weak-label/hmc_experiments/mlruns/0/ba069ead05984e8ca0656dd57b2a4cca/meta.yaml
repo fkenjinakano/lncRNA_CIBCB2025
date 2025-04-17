@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/ba069ead05984e8ca0656dd57b2a4cca/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba069ead05984e8ca0656dd57b2a4cca
+run_name: victorious-lark-641
+run_uuid: ba069ead05984e8ca0656dd57b2a4cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723798196660
+status: 1
+tags: []
+user_id: kenji

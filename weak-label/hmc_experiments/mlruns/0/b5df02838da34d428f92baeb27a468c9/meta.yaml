@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/b5df02838da34d428f92baeb27a468c9/artifacts
+end_time: 1723816122695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5df02838da34d428f92baeb27a468c9
+run_name: dapper-donkey-760
+run_uuid: b5df02838da34d428f92baeb27a468c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723816116705
+status: 4
+tags: []
+user_id: kenji

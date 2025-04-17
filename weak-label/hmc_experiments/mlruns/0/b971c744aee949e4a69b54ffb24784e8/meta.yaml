@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/b971c744aee949e4a69b54ffb24784e8/artifacts
+end_time: 1723816095972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b971c744aee949e4a69b54ffb24784e8
+run_name: bold-shrimp-843
+run_uuid: b971c744aee949e4a69b54ffb24784e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723816089782
+status: 4
+tags: []
+user_id: kenji

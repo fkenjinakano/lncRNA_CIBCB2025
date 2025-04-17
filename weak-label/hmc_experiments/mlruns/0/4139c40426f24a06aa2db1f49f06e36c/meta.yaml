@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/4139c40426f24a06aa2db1f49f06e36c/artifacts
+end_time: 1724165693558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4139c40426f24a06aa2db1f49f06e36c
+run_name: nosy-cat-101
+run_uuid: 4139c40426f24a06aa2db1f49f06e36c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724165692335
+status: 4
+tags: []
+user_id: kenji

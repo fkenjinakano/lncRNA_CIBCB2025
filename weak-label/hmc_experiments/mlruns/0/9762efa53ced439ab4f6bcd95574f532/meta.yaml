@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/9762efa53ced439ab4f6bcd95574f532/artifacts
+end_time: 1723816230039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9762efa53ced439ab4f6bcd95574f532
+run_name: skittish-ape-786
+run_uuid: 9762efa53ced439ab4f6bcd95574f532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723816223913
+status: 4
+tags: []
+user_id: kenji

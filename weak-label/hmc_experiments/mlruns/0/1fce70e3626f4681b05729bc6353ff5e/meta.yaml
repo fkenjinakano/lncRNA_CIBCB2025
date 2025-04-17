@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/1fce70e3626f4681b05729bc6353ff5e/artifacts
+end_time: 1724165671946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fce70e3626f4681b05729bc6353ff5e
+run_name: lyrical-tern-433
+run_uuid: 1fce70e3626f4681b05729bc6353ff5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724165670730
+status: 4
+tags: []
+user_id: kenji

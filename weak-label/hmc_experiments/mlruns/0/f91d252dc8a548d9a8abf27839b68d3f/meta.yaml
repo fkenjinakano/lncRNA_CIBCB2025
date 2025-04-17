@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/f91d252dc8a548d9a8abf27839b68d3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f91d252dc8a548d9a8abf27839b68d3f
+run_name: bustling-horse-737
+run_uuid: f91d252dc8a548d9a8abf27839b68d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723810401025
+status: 1
+tags: []
+user_id: kenji

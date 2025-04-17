@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/104982702c214aceb096b0d678081cd7/artifacts
+end_time: 1724162442491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 104982702c214aceb096b0d678081cd7
+run_name: kindly-goat-378
+run_uuid: 104982702c214aceb096b0d678081cd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162405856
+status: 4
+tags: []
+user_id: kenji

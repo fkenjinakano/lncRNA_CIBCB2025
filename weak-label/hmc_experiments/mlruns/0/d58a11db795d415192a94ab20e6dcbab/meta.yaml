@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/d58a11db795d415192a94ab20e6dcbab/artifacts
+end_time: 1723816164431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d58a11db795d415192a94ab20e6dcbab
+run_name: adaptable-stork-830
+run_uuid: d58a11db795d415192a94ab20e6dcbab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723816158393
+status: 4
+tags: []
+user_id: kenji

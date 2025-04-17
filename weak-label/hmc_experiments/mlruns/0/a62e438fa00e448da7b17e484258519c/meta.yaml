@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/a62e438fa00e448da7b17e484258519c/artifacts
+end_time: 1723800044909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a62e438fa00e448da7b17e484258519c
+run_name: sedate-asp-876
+run_uuid: a62e438fa00e448da7b17e484258519c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723799775419
+status: 3
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/8d14079697124a719597d02bb1a2ac0f/artifacts
+end_time: 1723815668369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d14079697124a719597d02bb1a2ac0f
+run_name: ambitious-calf-443
+run_uuid: 8d14079697124a719597d02bb1a2ac0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815662626
+status: 4
+tags: []
+user_id: kenji

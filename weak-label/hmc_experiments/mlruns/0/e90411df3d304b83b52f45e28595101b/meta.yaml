@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/e90411df3d304b83b52f45e28595101b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e90411df3d304b83b52f45e28595101b
+run_name: big-finch-948
+run_uuid: e90411df3d304b83b52f45e28595101b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796171267
+status: 1
+tags: []
+user_id: kenji

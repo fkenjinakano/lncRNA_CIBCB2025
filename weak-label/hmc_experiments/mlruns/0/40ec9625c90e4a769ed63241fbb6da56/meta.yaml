@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/40ec9625c90e4a769ed63241fbb6da56/artifacts
+end_time: 1723819459015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40ec9625c90e4a769ed63241fbb6da56
+run_name: big-fox-670
+run_uuid: 40ec9625c90e4a769ed63241fbb6da56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723819435900
+status: 3
+tags: []
+user_id: kenji

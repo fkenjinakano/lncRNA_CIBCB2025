@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/780a680713494288a44b24061f20f022/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 780a680713494288a44b24061f20f022
+run_name: gregarious-gull-185
+run_uuid: 780a680713494288a44b24061f20f022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723797844951
+status: 1
+tags: []
+user_id: kenji

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/69280ae1a2324154bb9591ba6624096b/artifacts
+end_time: 1723810553533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69280ae1a2324154bb9591ba6624096b
+run_name: respected-pug-765
+run_uuid: 69280ae1a2324154bb9591ba6624096b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723810418592
+status: 3
+tags: []
+user_id: kenji

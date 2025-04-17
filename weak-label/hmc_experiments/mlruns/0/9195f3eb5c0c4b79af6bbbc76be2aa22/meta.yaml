@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/9195f3eb5c0c4b79af6bbbc76be2aa22/artifacts
+end_time: 1728391313293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9195f3eb5c0c4b79af6bbbc76be2aa22
+run_name: placid-gnat-296
+run_uuid: 9195f3eb5c0c4b79af6bbbc76be2aa22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728391313231
+status: 4
+tags: []
+user_id: kenji

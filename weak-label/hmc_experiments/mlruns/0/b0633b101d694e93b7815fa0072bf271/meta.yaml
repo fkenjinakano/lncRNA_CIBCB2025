@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/b0633b101d694e93b7815fa0072bf271/artifacts
+end_time: 1723815868692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0633b101d694e93b7815fa0072bf271
+run_name: illustrious-fly-76
+run_uuid: b0633b101d694e93b7815fa0072bf271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815863081
+status: 4
+tags: []
+user_id: kenji

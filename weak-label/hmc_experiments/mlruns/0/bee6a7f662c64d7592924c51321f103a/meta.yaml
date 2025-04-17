@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/bee6a7f662c64d7592924c51321f103a/artifacts
+end_time: 1723815175723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bee6a7f662c64d7592924c51321f103a
+run_name: capricious-rook-448
+run_uuid: bee6a7f662c64d7592924c51321f103a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723815169508
+status: 4
+tags: []
+user_id: kenji

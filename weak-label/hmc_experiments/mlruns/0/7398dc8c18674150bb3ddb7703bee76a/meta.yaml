@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kenji/Dropbox/PosDoc/hmc_weak/hmcweak/hmc_experiments/mlruns/0/7398dc8c18674150bb3ddb7703bee76a/artifacts
+end_time: 1723817301178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7398dc8c18674150bb3ddb7703bee76a
+run_name: treasured-snake-282
+run_uuid: 7398dc8c18674150bb3ddb7703bee76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723817298219
+status: 4
+tags: []
+user_id: kenji
